@@ -18,11 +18,10 @@ Moiz Sublime/Textmate Themes
 ### Sublime (Mac):
 As you are a git user, the best way to install the theme and keep up to date is to clone the repo directly into your themes directory 
 
-{
-	cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
-	git clone https://github.com/acatl/moiz-theme.git moiz-theme
-
-}
+```
+cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
+git clone https://github.com/acatl/moiz-theme.git moiz-theme
+```
 
 restart
 
@@ -30,7 +29,7 @@ You will find the theme under Preferences > Color Scheme > User > moiz-theme
 
 ### Sublime (Windows / Linux):
 
-We don't know,will update asap
+We don't know, sorry :(
 
 ### Textmate:
 Since textmate don't support subfolders inside the themes folder you can't clone the repo directly, instead, so you have to clone and double click the tmfile (or just download it).
