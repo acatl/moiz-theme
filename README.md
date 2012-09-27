@@ -32,4 +32,4 @@ You will find the theme under Preferences > Color Scheme > User > moiz-theme
 We don't know, sorry :(
 
 ### Textmate:
-Since textmate don't support subfolders inside the themes folder you can't clone the repo directly, instead, so you have to clone and double click the tmfile (or just download it).
+Since textmate has no support for subfolders inside the themes folder you can't clone the repo directly, instead, so you have to clone and double click the tmfile (or just download it).
