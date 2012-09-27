@@ -23,7 +23,7 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
 git clone https://github.com/acatl/moiz-theme.git moiz-theme
 ```
 
-restart
+Restart
 
 You will find the theme under Preferences > Color Scheme > User > moiz-theme
 
