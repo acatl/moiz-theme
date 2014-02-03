@@ -20,7 +20,7 @@
 				<key>lineHighlight</key>
 				<string>#443c2c</string>
 				<key>selection</key>
-				<string>#586900</string>
+				<string>#1b6d82</string>
 			</dict>
 		</dict>
 		<dict>
@@ -35,6 +35,33 @@
 				<key>foreground</key>
 				<string>#D9D5D0</string>
 			</dict>
+		</dict>
+		<dict>
+		    <key>scope</key>
+		    <string>source.js</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#1e2024</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>scope</key>
+		    <string>source.php</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#241f1d</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>scope</key>
+		    <string>source.css, source.styl, source.less, source.sass </string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#251d24</string>
+		    </dict>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -56,12 +83,12 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
-				<!-- <key>background</key>
-				<string>#000000</string> -->
+				<key>background</key>
+				<string>#0e1112</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#66677b</string>
+				<string>#80849d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -195,7 +222,229 @@
 			</dict>
 		</dict>
 		
-		<!-- JADE ------------------------------------------------- -->
+		<dict>
+			<key>name</key>
+			<string>=========== JSON ==========</string>
+			<key>scope</key>
+			<string></string>
+			<key>settings</key>
+			<dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 18 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#414dbc</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 17 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#426bbc</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 16 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#548abc</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 15 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#54a0bc</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 14 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#4fb5bc</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 13 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#51bca6</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 12 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#54bc8f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 11 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#61cd60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 10 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string></string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#7ecd5f</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 9 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#96cd60</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 8 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#a7cd5e</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 7 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#b9cd5b</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 6 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cdc95d</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 5 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cdb85c</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 4 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cda355</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 3 deep</string>
+			<key>scope</key>
+			<string>meta meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cd9050</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 2 deep</string>
+			<key>scope</key>
+			<string>meta meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cd7947</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON - 1 deep</string>
+			<key>scope</key>
+			<string>meta meta.structure.dictionary string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#cd603f</string>
+			</dict>
+		</dict>
 
 		<dict>
 			<key>name</key>
@@ -220,6 +469,68 @@
 				<string>#6caddd</string>
 			</dict>
 		</dict>
+
+		<!-- CSS -->
+
+		<dict>
+			<key>name</key>
+			<string>§ css tag-name</string>
+			<key>scope</key>
+			<string>meta.selector.css entity.name.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#ce5676</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>§ css:pseudo-class</string>
+			<key>scope</key>
+			<string>meta.selector.css entity.other.attribute-name.tag.pseudo-class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#95ce44</string>
+			</dict>
+		</dict>
+		
+		<dict>
+			<key>name</key>
+			<string>§ css#id</string>
+			<key>scope</key>
+			<string>meta.selector.css entity.other.attribute-name.id</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#3cc4ce</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>§ css.class</string>
+			<key>scope</key>
+			<string>meta.selector.css entity.other.attribute-name.class</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#bece68</string>
+			</dict>
+		</dict>
+
+
+
+
 
 		<dict>
 			<key>name</key>
@@ -442,9 +753,25 @@ meta.brace.round</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#C0C100</string>
+				<string>#8c724f</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>punctuation / delimiter</string>
+			<key>scope</key>
+			<string>punctuation.definition.parameters, meta.delimiter, punctuation.terminator.expression.php, source.php.embedded.block.html, keyword.operator.class.php </string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#97a17f</string>
+			</dict>
+		</dict>
+
+
+
 	</array>
 	<key>uuid</key>
 	<string>6859ADD2-5700-4A41-8B30-CE7A9BACAA77</string>
