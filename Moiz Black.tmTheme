@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#23282c</string>
+				<string>#212121</string>
 				<key>caret</key>
 				<string>#FFFFFF</string>
 				<key>foreground</key>
@@ -42,7 +42,7 @@
 		    <key>settings</key>
 		    <dict>
 		        <key>background</key>
-		        <string>#1e2024</string>
+		        <string>#2b2b2b</string>
 		    </dict>
 		</dict>
 		<dict>
@@ -73,7 +73,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#79b3ff</string>
+				<string>#faa831</string>
 			</dict>
 		</dict>
 		<dict>
@@ -101,7 +101,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff6051</string>
+				<string>#b4b3ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -114,7 +114,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FFFEF5</string>
+				<string>#b7ff4a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -140,7 +140,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff8600</string>
+				<string>#d10040</string>
 			</dict>
 		</dict>
 		<dict>
@@ -153,7 +153,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff9d30</string>
+				<string>#8ec4e7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -218,7 +218,49 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#53c8c4</string>
+				<string>#b4d68a</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>JS: delimiter.period</string>
+			<key>scope</key>
+			<string>meta.delimiter.method.period.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#ff0073</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>name</key>
+			<string>JS: delimiter.comma</string>
+			<key>scope</key>
+			<string>meta.delimiter.object.comma.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#00c5ff</string>
+			</dict>
+		</dict>
+		
+		<dict>
+			<key>name</key>
+			<string>JS: brace.square</string>
+			<key>scope</key>
+			<string>meta.brace.square.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#ff2300</string>
 			</dict>
 		</dict>
 		
@@ -499,7 +541,6 @@
 			</dict>
 		</dict>
 		
-
 		<dict>
 			<key>name</key>
 			<string>Jade Tag</string>
@@ -681,7 +722,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff6f40</string>
+				<string>#bb6624</string>
 			</dict>
 		</dict>
 		<dict>
@@ -778,7 +819,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF9766</string>
+				<string>#d5d13c</string>
 			</dict>
 		</dict>
 		<dict>
@@ -807,7 +848,7 @@ meta.brace.round</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8c724f</string>
+				<string>#ff9b48</string>
 			</dict>
 		</dict>
 		<dict>
