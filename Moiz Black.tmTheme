@@ -18,7 +18,7 @@
 				<key>invisibles</key>
 				<string>#5365169E</string>
 				<key>lineHighlight</key>
-				<string>#443c2c</string>
+				<string>#1e0025</string>
 				<key>selection</key>
 				<string>#1b6d82</string>
 			</dict>
@@ -33,7 +33,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D9D5D0</string>
+				<string>#d2cdc8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -84,11 +84,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0e1112</string>
-				<key>fontStyle</key>
-				<string>italic</string>
+				<string>#2b2b2b</string>
 				<key>foreground</key>
-				<string>#80849d</string>
+				<string>#515a66</string>
 			</dict>
 		</dict>
 		<dict>
@@ -848,7 +846,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#7bd572</string>
+				<string>#f9ff62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -877,7 +875,7 @@ meta.brace.round</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff9b48</string>
+				<string>#ffcd00</string>
 			</dict>
 		</dict>
 		<dict>
@@ -890,7 +888,7 @@ meta.brace.round</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#97a17f</string>
+				<string>#d58bdf</string>
 			</dict>
 		</dict>
 
