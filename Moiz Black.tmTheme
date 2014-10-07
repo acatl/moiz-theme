@@ -33,7 +33,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#d2cdc8</string>
+				<string>#f8f1dd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -73,7 +73,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#faa831</string>
+				<string>#ffb600</string>
 			</dict>
 		</dict>
 		<dict>
@@ -86,7 +86,7 @@
 				<key>background</key>
 				<string>#2b2b2b</string>
 				<key>foreground</key>
-				<string>#515a66</string>
+				<string>#81898f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -138,7 +138,8 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#d10040</string>
+				<string>#cabea3</string>
+
 			</dict>
 		</dict>
 		<dict>
@@ -151,7 +152,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8ec4e7</string>
+				<string>#46e4ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -177,7 +178,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CC3333</string>
+				<string>#e87f54</string>
 			</dict>
 		</dict>
 		<dict>
@@ -203,7 +204,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#83cd7a</string>
+				<string>#38d665</string>
 			</dict>
 		</dict>
 		<dict>
@@ -216,7 +217,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#b4d68a</string>
+				<string>#56c7b8</string>
 			</dict>
 		</dict>
 
@@ -319,7 +320,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JSON Punctionation</string>
+			<string>JSON Punctuation</string>
 			<key>scope</key>
 			<string>punctuation.separator.dictionary.key-value.json</string>
 			<key>settings</key>
@@ -327,7 +328,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#748d8e</string>
+				<string>#00c1ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -520,7 +521,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9a8b45</string>
+				<string>#38d665</string>
 			</dict>
 		</dict>
 		<dict>
@@ -531,7 +532,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d3a857</string>
+				<string>#2ca4c5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -542,7 +543,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e29f58</string>
+				<string>#2ca4c5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -553,7 +554,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#aa643a</string>
+				<string>#33d0b9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -564,7 +565,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#cd603f</string>
+				<string>#38d665</string>
 			</dict>
 		</dict>
 		
@@ -738,18 +739,18 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#eed239</string>
+				<string>#ffd21d</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>tag attribute value</string>
 			<key>scope</key>
-			<string>meta string</string>
+			<string>meta.tag string.quoted, meta.tag string.quoted constant.character.entity</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#bb6624</string>
+				<string>#a7adcc</string>
 			</dict>
 		</dict>
 		<dict>
