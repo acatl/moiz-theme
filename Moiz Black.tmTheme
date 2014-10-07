@@ -429,7 +429,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#419785</string>
+				<string>#b580cd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -440,7 +440,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#64e1ab</string>
+				<string>#aa44d6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -451,7 +451,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#4da44c</string>
+				<string>#bba6d6</string>
 			</dict>
 		</dict>
 		<dict>
@@ -466,7 +466,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#89e168</string>
+				<string>#9862de</string>
 			</dict>
 		</dict>
 		<dict>
@@ -477,7 +477,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#5a7c3a</string>
+				<string>#a7a3de</string>
 			</dict>
 		</dict>
 		<dict>
@@ -488,7 +488,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b7e066</string>
+				<string>#817ce4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -499,7 +499,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#82903f</string>
+				<string>#8caae9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -510,7 +510,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d7d361</string>
+				<string>#4280ed</string>
 			</dict>
 		</dict>
 		<dict>
@@ -521,7 +521,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#38d665</string>
+				<string>#77a2b9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -532,7 +532,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2ca4c5</string>
+				<string>#2b93c5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -543,7 +543,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#2ca4c5</string>
+				<string>#8fc7bd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -565,7 +565,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#38d665</string>
+				<string>#7ac192</string>
 			</dict>
 		</dict>
 		
