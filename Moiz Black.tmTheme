@@ -18,7 +18,7 @@
 				<key>invisibles</key>
 				<string>#5365169E</string>
 				<key>lineHighlight</key>
-				<string>#1e0025</string>
+				<string>#1a0021</string>
 				<key>selection</key>
 				<string>#1b6d82</string>
 			</dict>
@@ -42,7 +42,16 @@
 		    <key>settings</key>
 		    <dict>
 		        <key>background</key>
-		        <string>#2b2b2b</string>
+		        <string>#1b1b1b</string>
+		    </dict>
+		</dict>
+		<dict>
+		    <key>scope</key>
+		    <string>source.json</string>
+		    <key>settings</key>
+		    <dict>
+		        <key>background</key>
+		        <string>#000000</string>
 		    </dict>
 		</dict>
 		<dict>
@@ -217,7 +226,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#56c7b8</string>
+				<string>#2caaab</string>
 			</dict>
 		</dict>
 
