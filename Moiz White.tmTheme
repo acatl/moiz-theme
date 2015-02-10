@@ -37,7 +37,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#777777</string>
+				<string>#4d5b54</string>
 			</dict>
 		</dict>
 		<dict>
@@ -50,7 +50,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#00b0de</string>
+				<string>#126300</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,9 +61,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#f4f9ff</string>
+				<string>#f6f6f6</string>
 				<key>foreground</key>
-				<string>#7694c4</string>
+				<string>#8b8b8b</string>
 			</dict>
 		</dict>
 		<dict>
@@ -76,7 +76,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#009900</string>
+				<string>#4a9a45</string>
 			</dict>
 		</dict>
 		<dict>
@@ -102,7 +102,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ed0adb</string>
+				<string>#980056</string>
 			</dict>
 		</dict>
 		<dict>
@@ -115,7 +115,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#2d88ed</string>
+				<string>#635d9e</string>
 			</dict>
 		</dict>
 		<dict>
@@ -193,7 +193,9 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ff6602</string>
+				<string>#d3640e</string>
+				<key>background</key>
+				<string>#fdf9e9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -206,7 +208,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0db4e7</string>
+				<string>#9a4674</string>
 			</dict>
 		</dict>
 		<dict>
@@ -219,7 +221,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#13c3cf</string>
+				<string>#301514</string>
 			</dict>
 		</dict>
 		<dict>
@@ -284,7 +286,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#d97162ff</string>
+				<string>#d30000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -297,7 +299,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ffa200ff</string>
+				<string>#d30000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -310,7 +312,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#a799d6ff</string>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -445,7 +447,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f0af20</string>
+				<string>#0059da</string>
 			</dict>
 		</dict>
 		<dict>
@@ -456,7 +458,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#e85d91</string>
+				<string>#796f06</string>
 			</dict>
 		</dict>
 		<dict>
@@ -467,7 +469,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#d505fb</string>
+				<string>#189055</string>
 			</dict>
 		</dict>
 		<dict>
@@ -478,7 +480,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#af0ce8</string>
+				<string>#00c2cf</string>
 			</dict>
 		</dict>
 		<dict>
@@ -489,7 +491,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b21698</string>
+				<string>#0057d7</string>
 			</dict>
 		</dict>
 		<dict>
@@ -500,7 +502,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#7b1642</string>
+				<string>#786f15</string>
 			</dict>
 		</dict>
 		<dict>
@@ -511,7 +513,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#a92a22ff</string>
+				<string>#189158</string>
 			</dict>
 		</dict>
 		<dict>
@@ -522,7 +524,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff2a0fff</string>
+				<string>#13c3cf</string>
 			</dict>
 		</dict>
 		<dict>
@@ -533,7 +535,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ce296fff</string>
+				<string>#1255d4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -847,7 +849,7 @@ meta.brace.round</string>
 				<string>#00af11ff</string>
 			</dict>
 		</dict>
-				<dict>
+		<dict>
 			<key>name</key>
 			<string>Tag</string>
 			<key>scope</key>
