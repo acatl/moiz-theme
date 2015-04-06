@@ -18,9 +18,9 @@
 				<key>invisibles</key>
 				<string>#5365169E</string>
 				<key>lineHighlight</key>
-				<string>#32375C</string>
+				<string>#2D3153</string>
 				<key>selection</key>
-				<string>#5B5231</string>
+				<string>#123466</string>
 			</dict>
 		</dict>
 		<dict>
@@ -68,7 +68,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E99D88</string>
+				<string>#CE6D75</string>
 			</dict>
 		</dict>
 		<dict>
@@ -184,9 +184,20 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D2E892</string>
-				<key>background</key>
-				<string>#292D15</string>
+				<string>#E8D351</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>String Quotes</string>
+			<key>scope</key>
+			<string>string.quoted punctuation.definition.string.begin, string.quoted punctuation.definition.string.end, punctuation.definition.string</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FF992F</string>
 			</dict>
 		</dict>
 
@@ -654,13 +665,13 @@
 			<key>name</key>
 			<string>Library type</string>
 			<key>scope</key>
-			<string>support.type</string>
+			<string>support.type, support.class</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#658FAF</string>
+				<string>#93E79D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -825,13 +836,13 @@
 			<key>name</key>
 			<string>variable</string>
 			<key>scope</key>
-			<string>variable</string>
+			<string>variable, variable.language</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#e1b300</string>
+				<string>#DF4A55</string>
 			</dict>
 		</dict>
 		<dict>
@@ -845,9 +856,9 @@ meta.brace.round</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#9CE2FF</string>
+				<string>#FF9734</string>
 			</dict>
 		</dict>
 		<dict>
@@ -860,7 +871,7 @@ meta.brace.round</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#B2C1E6</string>
+				<string>#00B77B</string>
 			</dict>
 		</dict>
 
